@@ -1,0 +1,51 @@
+[
+    {
+        "nombre": "Papas Fritas",
+        "precio": 500
+    },
+    {
+        "nombre": "Rabas",
+        "precio": 900
+    },
+    {
+        "nombre": "Langostinos",
+        "precio": 1000
+    },
+    {
+        "nombre": "Pizza",
+        "precio": 750
+    },
+    {
+        "nombre": "Hamburguesa",
+        "precio": 950
+    },
+    {
+        "nombre": "Lomo",
+        "precio": 1100
+    },
+    {
+        "nombre": "Ravioles",
+        "precio": 700
+    },
+    {
+        "nombre": "Sorrentinos",
+        "precio": 900
+    },
+    {
+        "nombre": "Bife de Chorizo",
+        "precio": 1050
+    },
+    {
+        "nombre": "Cerveza 1L",
+        "precio": 600
+    },
+    {
+        "nombre": "Gaseosa",
+        "precio": 500
+    },
+    {
+        "nombre": "Agua",
+        "precio": 300
+    }
+
+]
